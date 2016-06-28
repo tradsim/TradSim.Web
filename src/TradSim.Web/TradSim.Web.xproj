@@ -14,6 +14,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
+    <ApplicationInsightsResourceId>/subscriptions/48ad0d45-c69c-4879-9d9c-ceb58c02e646/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/TradSim.Web</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
